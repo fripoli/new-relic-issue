@@ -8,4 +8,4 @@ Run
 
 or
 
-``
+`java -javaagent:newrelic.jar -Dnewrelic.config.file=newrelic.yml -Dnewrelic.config.max_samples_stored=100 -jar target/demo-0.0.1-SNAPSHOT.jar`
